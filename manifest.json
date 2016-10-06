@@ -1,0 +1,15 @@
+{
+    "default_locale": "en",
+
+    "description": "Define a highlighted word or phrase from Latin to english.",
+
+    "manifest_version": 2,
+
+    "name": "Latin Lookup",
+
+    "permissions": ["contextMenus"],
+
+    "version": "0.2",
+
+    "web_accessible_resources": ["images/my-image.png"]
+}

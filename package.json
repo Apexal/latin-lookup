@@ -1,0 +1,19 @@
+{
+  "title": "Latin Lookup",
+  "name": "latin-lookup",
+  "version": "0.2",
+  "description": "Quickly define a Latin word using the Glosbe API.",
+  "main": "index.js",
+  "author": "Frank Matranga",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "latin",
+    "dictionary",
+    "define",
+    "words"
+  ]
+}
